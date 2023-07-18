@@ -71,7 +71,7 @@
 
 .logo-text {
     font-size: 2em;
-    margin: 0 -0.7em;
+    margin: 0 -0.1em;
     font-family: cursive;
 
 }
@@ -262,7 +262,7 @@
 .user_image img{
     
     object-fit:cover;
-    aspect-ratio: auto 345 / 390;
+    /* aspect-ratio: auto 345 / 390; */
     z-index: -1;
 }
 
